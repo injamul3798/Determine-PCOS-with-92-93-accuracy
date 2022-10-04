@@ -15,7 +15,7 @@ import seaborn as sns
 from google.colab import drive
 drive.mount('/content/drive')
 
-df = pd.read_excel("/content/drive/MyDrive/Zahid sir Assignment/Dataset with disease data.xlsx")
+df = pd.read_excel("/........./Zahid sir Assignment/Dataset with disease data.xlsx")
 
 df.head()
 
