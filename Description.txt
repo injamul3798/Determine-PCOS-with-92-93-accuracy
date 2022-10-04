@@ -1,0 +1,8 @@
+Polycystic ovary syndrome is a disorder involving infrequent, irregular or prolonged menstrual periods, and often excess male hormone (androgen) levels. The ovaries develop numerous small collections of fluid — called follicles — and may fail to regularly release eggs
+dataset contains all physical and clinical parameters to determine PCOS and infertility related issues .
+data is collect from 10 different hospital across Kerala,India.
+all the best and don't forget to upvote the dataset
+
+
+
+Dataset:https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos
